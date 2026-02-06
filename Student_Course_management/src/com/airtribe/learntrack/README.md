@@ -20,5 +20,5 @@ Student Management System
 1. Student Management
 2. Course Management
 3. Enrollment Management
-0. Back
+0.  Back
    
